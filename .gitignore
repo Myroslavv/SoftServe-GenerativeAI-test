@@ -6,3 +6,10 @@
 /code/CountriesProxy/.vs/CountriesProxy/FileContentIndex
 /code/CountriesProxy/.vs/CountriesProxy/v17
 /code/CountriesProxy/CountriesProxy.API/obj
+/.sonarqube/bin
+/.sonarqube/conf
+*.log
+/code/CountriesProxy/.sonarqube/bin
+/code/CountriesProxy/.vs
+/code/CountriesProxy/CountriesProxy.API/.sonarqube
+/code/CountriesProxy/CountriesProxy.API/bin/Debug/net6.0
