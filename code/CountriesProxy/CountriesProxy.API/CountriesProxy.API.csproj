@@ -10,4 +10,11 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <Target Name="SonarCloud" BeforeTargets="CoreCompile">
+	<Exec Command="dotnet sonarscanner begin /k:&lt;GenerativeAITestSonarCloudProjectKey&gt; /d:sonar.login=%SoftServeGenerativeAITestSonarToken%" />
+  </Target>
+  <Target Name="SonarCloudEnd" AfterTargets="Publish">
+    <Exec Command="dotnet sonarscanner end /d:sonar.login=%SoftServeGenerativeAITestSonarToken%" />
+  </Target>
+
 </Project>
