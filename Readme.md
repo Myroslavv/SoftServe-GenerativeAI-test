@@ -1,1 +1,1 @@
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Myroslavv_SoftServe-GenerativeAI-test)](https://sonarcloud.io/summary/new_code?id=Myroslavv_SoftServe-GenerativeAI-test)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Myroslavv_SoftServe-GenerativeAI-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Myroslavv_SoftServe-GenerativeAI-test)
