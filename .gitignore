@@ -13,3 +13,12 @@
 /code/CountriesProxy/.vs
 /code/CountriesProxy/CountriesProxy.API/.sonarqube
 /code/CountriesProxy/CountriesProxy.API/bin/Debug/net6.0
+code/CountriesProxy.API/.vs/CountriesProxy.API/config/applicationhost.config
+code/CountriesProxy.API/.vs/CountriesProxy.API/DesignTimeBuild/.dtbcache.v2
+code/CountriesProxy.API/.vs/CountriesProxy.API/FileContentIndex/4bf64fb7-ee1b-4720-a78e-64baa3a70dc0.vsidx
+code/CountriesProxy.API/.vs/CountriesProxy.API/FileContentIndex/read.lock
+code/CountriesProxy.API/.vs/CountriesProxy.API/v17/.futdcache.v2
+code/CountriesProxy.API/.vs/CountriesProxy.API/v17/.suo
+/code/CountriesProxy.API/.vs/CountriesProxy.API/FileContentIndex
+/code/CountriesProxy.API/bin/Debug/net7.0
+/code/CountriesProxy.API/obj
