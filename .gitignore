@@ -22,3 +22,5 @@ code/CountriesProxy.API/.vs/CountriesProxy.API/v17/.suo
 /code/CountriesProxy.API/.vs/CountriesProxy.API/FileContentIndex
 /code/CountriesProxy.API/bin/Debug/net7.0
 /code/CountriesProxy.API/obj
+/code/CountriesProxy.API/.sonarqube/bin
+/code/CountriesProxy.API/.sonarqube
